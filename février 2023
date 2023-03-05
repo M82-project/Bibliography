@@ -4,6 +4,14 @@
 
 
     A
+    
+    @book{étiquette,
+    author = {Auteur commençant par A},
+    title = {Le titre on s'en fiche},
+    year = {2022},
+    publisher= {Odile Jacob},
+    isbn = {1234567890},
+    keyword={Réseaux sociaux}}
 
 
     @book{étiquette,
