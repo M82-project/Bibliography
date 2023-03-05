@@ -12,6 +12,15 @@
     publisher= {Odile Jacob},
     isbn = {1234567890},
     keyword={Réseaux sociaux}}
+    
+     @book{étiquette,
+    author = {Ahlalalal c'est pas gagné},
+    title = {Le titre on s'en fiche},
+    year = {2022},
+    publisher= {Odile Jacob},
+    isbn = {1234567890},
+    keyword={Réseaux sociaux}}
+
 
 
     @book{étiquette,
