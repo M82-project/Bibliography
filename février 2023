@@ -764,7 +764,13 @@
 
     L
 
-
+    @book{etiquette,
+    author = {Lamy, Stéphanie}
+    title = {Agora toxica},
+    year = {2022}
+    publisher = {éditions du détour},
+    isbn = {979-10-97079-87-1}
+    
     @book{laurent2021conflits,
     title={Conflits, crimes et r{\'e}gulations dans le cyberespace},
     author={Laurent, S{\'e}bastien-Yves},
@@ -1160,6 +1166,13 @@
     title = {Cryptography Engineering},
     year = {2010},
     publisher= {John Wiley \& Sons}}
+    
+    @book{étiquette,
+    author = {Schradie, Jen},
+    title = {L'illusion de la démocratie numérique. Internet est-il de droite ?},
+    year = {2022},
+    publisher= {Quanto},
+    isbn = 978-288915-454-8}}
 
 
     @book{étiquette,
