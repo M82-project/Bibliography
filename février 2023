@@ -6,24 +6,6 @@
     A
     
     @book{étiquette,
-    author = {Auteur commençant par A},
-    title = {Le titre on s'en fiche},
-    year = {2022},
-    publisher= {Odile Jacob},
-    isbn = {1234567890},
-    keyword={Réseaux sociaux}}
-    
-     @book{étiquette,
-    author = {Ahlalalal c'est pas gagné},
-    title = {Le titre on s'en fiche},
-    year = {2022},
-    publisher= {Odile Jacob},
-    isbn = {1234567890},
-    keyword={Réseaux sociaux}}
-
-
-
-    @book{étiquette,
     author = {Abiteboul,Serge and Cattan, Jean},
     title = {Nous sommes les réseaux sociaux},
     year = {2022},
@@ -141,7 +123,6 @@
     title = {Cyberattaques, les dessous d'une menace mondiale},
     year = {2022},
     publisher= {Hachette},
-    note={https://www.hachette-pratique.com/livre/cyberattaques-9782019462499/},
     isbn = {978-2-915547-66-5},
     Keyword={Cyberguerre, Géopolitique}}
 
@@ -163,7 +144,7 @@
 
     @book{étiquette,
     author = {Blondeau, Olivier},
-    title = {Devenir Média. L'activisme sur Internet, entre défection et expérimentation},
+    title = {Devenir média. L'activisme sur Internet, entre défection et expérimentation},
     year = {2007},
     publisher = {Édition Amsterdam},
     isbn = {978-2-915547-66-5},
@@ -188,7 +169,7 @@
 
 
     @book{étiquette,
-    author = {Boyer,Bertrand},
+    author = {Boyer, Bertrand},
     title = {Guérilla 2.0, guerres irrégulières dans le cyberespace},
     year = {2020},
     publisher= {École de Guerre},
@@ -196,7 +177,7 @@
 
 
     @book{étiquette,
-    author = {Boyer,Bertrand},
+    author = {Boyer, Bertrand},
     title = {Cyberstratégie, l'art de la guerre numérique},
     year = {2012},
     publisher= {NUVIS},
@@ -204,8 +185,8 @@
 
 
     @book{étiquette,
-    author = {Boyer,Bertrand},
-    title = {Cybertactique, Conduire la guerre numérique},
+    author = {Boyer, Bertrand},
+    title = {Cybertactique, conduire la guerre numérique},
     year = {2014},
     publisher= {NUVIS},
     keyword={Cyberguerre, Cyberstratégie}}
@@ -365,13 +346,21 @@
 
 
     @book{étiquette,
-    author = {Jonathan Clough},
+    author = {Clough, Jonathan},
     title = {Principles of cybercrime},
     year = {2015},
     publisher= {Cambridge University Press},
     ISBN={9781139540803},
     keyword={Cybercriminalité}}
-
+    
+    
+    @book{étiquette,
+    author = {Choucri, Nazli AND Clark, David D.},
+    title = {International Relations in the Cyber Age. The Co-Evolution Dilemma},
+    year = {2019},
+    publisher= {The MIT Press},
+    ISBN={9780262038911},
+    keyword={Cybercriminalité}}
 
 
     D
@@ -628,6 +617,14 @@
     year = {2017},
     publisher= {ISTE éditions}}
 
+    @book{étiquette,
+    title={Intelligence Services in the Information Age},
+    author={Herman, Michael},
+    year={2002},
+    ISBN = {9780714681962},
+    publisher={Routledge},
+    keyword={Cybersécurité}}
+     
 
     @article{hoorickx2019etats,
     title={Les {\'E}tats, acteurs cl{\'e}s de la cyberstrat{\'e}gie euro-atlantique 1},
@@ -906,74 +903,47 @@
     title = {The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers},
     year = {2005},
     publisher = {John Wiley \& Sons},
-
     isbn = {9780471782667}}
 
 
     @book{étiquette,
-
     author = {Mitnick, Kevin},
-
     title = {Ghost in the Wires: My Adventures as the World's Most Wanted Hacker},
-
     year = {2012},
-
     publisher = {Back Bay Books},
-
     isbn = {9780316212182}}
 
 
     @book{étiquette,
-
     author = {Monte, Matthew},
-
     title = {Network Attacks and Exploitation},
-
     year = {2015},
-
     publisher= {Wiley}}
 
 
     @book{étiquette,
-
     author = {Moore, Daniel},
-
     title = {Offensive Cyber Operations},
-
     year = {2022},
-
     note = {https://www.hurstpublishers.com/book/offensive-cyber-operations/},
-
-    isbn = {9781787385610},
-
+    isbn = {9781787385610}
     publisher= {Hurst}}
 
 
     @book{étiquette,
-
     author = {Morel, Camille},
-
     title = {},
-
     year = {},
-
     publisher = {},
-
     address = {},
-
     note = {},
-
     isbn = {}}
 
 
     @book{étiquette,
-
     author = {Motte, Martin},
-
     title = {La mesure de la force},
-
     year = {2018},
-
     publisher= {Taillandier}}
 
 
@@ -982,137 +952,87 @@
 
 
     @book{étiquette,
-
     author = {Nye, Joseph},
-
     title = {Cyberpower},
-
     year = {2010},
-
     publisher= {Harvard University}}
 
 
     P
 
     @book{étiquette,
-
     author = {Patino, Bruno},
-
-    title = {La civilisation du poisson rouge, Petit traité sur le marché de l'attention},
-
+    title = {La civilisation du poisson rouge. Petit traité sur le marché de l'attention},
     year = {2019},
-
     publisher = {Grasset et Fasquelle},
-
     isbn = {978-2-253-10125-3}}
 
 
     @book{étiquette,
-
     author = {Patino, Bruno},
-
     title = {Tempête dans le bocal, la nouvelle civilisation du poisson rouge},
-
     year = {2022},
-
     publisher = {Grasset et Fasquelle},
-
     isbn = {978-2-246-82896-9}}
 
 
     @book{étiquette,
-
-    author = {Pandoras, Groupe},
-
+    author = {Groupe Pandoras},
     title = {cybersécurité - méthode de gestion de crise},
-
     year = {2021},
-
     publisher= {VA-EDITIONS}}
 
-
     @book{étiquette,
-
     author = {Payne, Kenneth},
-
     title = {I, Warbot: The Dawn of Artificially Intelligent Conflict},
-
     year = {2021},
-
     publisher= {Hurst Publishers}}
 
 
     @book{étiquette,
-
     author = {Pelroth, Nicole},
-
     title = {This is How they Tell me the World Ends: the Cyberweapons Arms Race},
-
     year = {2021},
-
     publisher= {Bloomsburry Publishing}}
 
 
     @book{étiquette,
-
     author = {Penalba, Pierre},
-
-    title = {Cyber crimes: Un flic 2.0 raconte},
-
+    title = {Cyber crimes: un flic 2.0 raconte},
     year = {2021},
-
     publisher = {Albin Michel},
-
     isbn = {978-2226445957}}
 
 
     @book{étiquette,
-
     author = {Perkovich, George and Ariel, Levite},
-
-    title = {Understanding Cyber conflict : 14 analogies},
-
+    title = {Understanding Cyber conflict: 14 analogies},
     year = {2017},
-
     publisher = {Georgetown University Press}}
 
 
     @book{étiquette,
-
     author = {Pernet, Cédric},
-
     title = {Sécurité et espionnage informatique},
-
     year = {2014},
-
     publisher= {Eyrolles},
-
     isbn = {9782212139655}}
 
 
     @book{étiquette,
-
     author = {Pharo, Patrick},
-
-    title = {Les data, contre la liberté},
-
+    title = {Les data contre la liberté},
     year = {2022},
-
     publisher = {PUF},
-
     isbn = {978-2-13-083304-8}}
 
 
     @book{étiquette,
 
     author = {Porche, Isaac},
-
     title = {Cyberwarfare: An Introduction to Information-Age Conflict },
-
     year = {2019},
-
     ISBN = {978-1630815769},
-
     publisher= {Artech House}}
 
 
@@ -1120,13 +1040,9 @@
 
 
     @book{étiquette,
-
     author = {Quemener, Myriam and Ferry, Joël},
-
     title = {Cybercriminalité : défi mondial et réponse},
-
     year = {2007},
-
     publisher= {Economica}}
 
 
@@ -1134,90 +1050,57 @@
 
 
     @book{étiquette,
-
     author = {Raimondo, Laurane},
-
     title = {Les fondamentaux de la gestion de crise cyber},
-
     year = {2022},
-
     publisher= {Ellipses}}
 
 
     @book{étiquette,
-
-    author = {Rascagnères, Paul et Larinier, Sébastien},
-
-    title = {Cybersécurité et Malwares - Détection, analyse et Threat Intelligence (4e édition)},
-
+    author = {Rascagnères, Paul AND Larinier, Sébastien},
+    title = {Cybersécurité et Malwares. Détection, analyse et Threat Intelligence},
     year = {2022},
-
     publisher = {ENI},
-
     note = {4ème édition (2022) d'un livre de référence sur le sujet},
-
     isbn = {978-2409038105}}
 
 
     @book{étiquette,
-
     author = {Rattray, Gregory},
-
     title = {Strategic warfare in cyberspace},
-
     year = {2001},
-
     publisher= {Mass MIT Press}}
 
 
     @book{étiquette,
-
     author = {Raufast, Pierre},
-
     title = {Habemus piratam},
-
     year = {2022},
-
     publisher = {Forges Vulcain},
-
     isbn = {9782373051193},
-
     note = {Un très bon roman français dans le domaine Cyber/Hacking, auteur membre de l'équipe SSI chez Michelin}}
 
 
     @book{étiquette,
-
     author = {Rid, Thomas},
-
     title = {Cyber War will not take place},
-
     year = {2013},
-
     publisher= {Oxford University Press}}
 
 
 
     @book{étiquette,
-
     author = {Rid, Thomas},
-
     title = {Active Measures: The Secret History of Disinformation and Political Warfare},
-
     year = {2020},
-
     publisher= {Profile Books Ltd}}
 
 
     @book{étiquette,
-
     author = {Roux, Thierry},
-
-    title = {L'art de la guerre cyber : Vers une intelligence des crises},
-
+    title = {L'art de la guerre cyber : vers une intelligence des crises},
     year = {2020},
-
     publisher = {Nunkee  Editions},
-
     isbn = {978-2492639005}}
 
 
@@ -1226,221 +1109,127 @@
 
 
     @book{étiquette,
-
     author = {Salamon, Yann},
-
-    title = {Cybersécurité et Cyberdéfense: enjeux stratégiques},
-
+    title = {Cybersécurité et Cyberdéfense : enjeux stratégiques},
     year = {2020},
-
     publisher= {Ellipses},
-
     note = {S’adressant à un panel de publics divers, cet ouvrage balaie un large panorama de sujets structurants liés à la sécurité numérique. Prenant comme point de départ la compréhension du cyberespace, il en décrit quelques propriétés importantes : tendances, enjeux, caractéristiques « topologiques », acteurs en présence.}}
 
 
     @book{étiquette,
-
     author = {Sanger, David},
-
     title = {Confront and Conceal: Obama’s secret wars},
-
     year = {2012},
-
     publisher= {Crown}}
 
 
     @book{étiquette,
-
     author = {Sanger, David},
-
     title = {The Perfect Weapon: War, Sabotage and Fear in the Cyber Age},
-
     year = {2019},
-
     publisher= {Crown},
-
     isbn = {978-0451497901}}
 
 
     @book{étiquette,
-
     author = {Schmitt, Michael N. and Vihul, Liis},
-
     title = {Tallinn manual 2.0 on the international law applicable to cyber operations},
-
     year = {2017},
-
     publisher = {Cambridge university press},
-
     address = {Cambridge, Royaume-Uni},
-
     isbn = {978-1-316-63037-2}}
 
 
     @book{étiquette,
-
     author = {Schneier, Bruce},
-
     title = {Applied Cryptography},
-
     year = {1996},
-
     publisher= {John Wiley \& Sons}}
 
 
     @book{étiquette,
-
     author = {Schneier, Bruce},
-
     title = {Secrets and Lies: Digital Security in a Networked World},
-
     year = {2004},
-
     publisher= {John Wiley \& Sons},
-
     isbn = {0471453803}}
 
 
     @book{étiquette,
-
     author = {Schneier, Bruce},
-
     title = {Cryptography Engineering},
-
     year = {2010},
-
     publisher= {John Wiley \& Sons}}
 
 
     @book{étiquette,
-
     author = {Séjean, Michel},
-
     title = {Code de la Cybersécurité},
-
     year = {2022},
-
     publisher= {Lefevre Dalloz}}
 
 
     @book{étiquette,
-
-    author = {Tsutomu Shimomura, avec John Markoff},
-
+    author = {Shimomura,Tsutomu AND Markoff, John},
     title = {Cybertraque. La chasse au pirate informatique le plus célèbre des Etats-Unis},
-
     year = {1998},
-
     publisher = {Plon},
-
     note = {Traduction FR de "Katching Kevin", récit du hack et de la traque de Kevin Mitnick en 1995},
-
     isbn = {978-2259184021}}
 
 
     @book{étiquette,
-
     author = {Shirky, Clay},
-
     title = {Cognitive Surplus: Creativity and Generosity in a Connected Age},
-
     year = {2010},
-
     publisher= {Penguin Press},
-
-    isbn = {1594202532},
-
+    isbn = {9780141041605},
     note = {In Cognitive Surplus, Internet guru Clay Shirky forecasts the thrilling changes we will all enjoy as new digital technology puts our untapped resources of talent and goodwill to use at last. }}
 
 
     @book{étiquette,
-
     author = {Sikorski, Michael and Honig, Andrew},
-
     title = {Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software},
-
     year = {2012},
-
     publisher= {No Starch Press}}
 
 
     @book{étiquette,
-
     author = {Singer, P.W and Cole, August},
-
     title = {La flotte fantôme},
-
     year = {2022},
-
     publisher= {Folio},
-
     isbn = {978-2-07-297935-4},
-
     Keyword={Roman, Cyberguerre}}
 
 
-    @article{skopik2016problem,
-
-      title={A problem shared is a problem halved: A survey on the dimensions of collective cyber defense through security information sharing},
-
-      author={Skopik, Florian and Settanni, Giuseppe and Fiedler, Roman},
-
-      journal={Computers \& Security},
-
-      volume={60},
-
-      pages={154--176},
-
-      year={2016},
-
-      publisher={Elsevier}
-
-    }
-
 
     @book{étiquette,
-
     author = {Smeets, Max},
-
     title = {No Shortcuts. Why States Struggle to Develop a Military Cyber-Force},
-
     year = {2022},
-
     publisher= {Hurst}}
 
 
     @book{étiquette,
-
     author = {Stamboliyska, Rayna},
-
-    title = {La face cachée d'internet: hackers},
-
+    title = {La face cachée d'internet : hackers},
     year = {2017},
-
     publisher= {Larousse}}
 
 
     @book{stevens2016cyber,
-
-      title={Cyber security and the politics of time},
-
-      author={Stevens, Tim},
-
-      year={2016},
-
-      publisher={Cambridge University Press},
-
+    title={Cyber security and the politics of time},
+    author={Stevens, Tim},
+    year={2016},
+    publisher={Cambridge University Press},
     keyword={Cybersécurité}}
 
 
     @book{étiquette,
-
     author = {Stoll, Clifford},
-
     title = {The Cuckoo's Egg},
-
     year = {1989},
-
     publisher= {New York: Doubleday}}
 
 
@@ -1449,50 +1238,35 @@
 
 
     @book{étiquette,
-
     author = {Tarissan, Fabien},
-
     title = {Au coeur des réseaux, des sciences aux citoyens},
-
     year = {2019},
-
     publisher = {Le Pommier},
-
     isbn = {978-2-7465-1666-3}}
 
 
     @book{étiquette,
 
     author = {Triffault, Alexandre},
-
     title = {The Little Black Book of Lockpicking: Lock opening and Bypass techniques for Security Professionals},
-
     year = {2021},
-
-    publisher= {Amazon}}
+    isbn = {979-8544602156}
+    publisher= {publication indépendante}}
 
 
     @book{étiquette,
 
     author = {Triandafillidou, Olga},
-
-    title = {Cybermenaces, Un état de siège},
-
+    title = {Cybermenaces, un état de siège},
     year = {2019},
-
     publisher = {alsyse-news.com},
-
     isbn = {978-1706499497}}
 
 
     @book{étiquette,
-
     author = {Troia, Vinny},
-
     title = {Hunting Cyber Criminals: A Hacker's Guide to Online Intelligence Gathering Tools and Techniques},
-
     year = {2020},
-
     publisher= {Sybex Inc}}
 
 
@@ -1505,71 +1279,40 @@
     @book{étiquette,
 
     author = {Van Puyvelde, Damien and Brantly, Aaron F.},
-
     title = {Cybersecurity. Politics, Governance and Conflict in Cyberspace},
-
     year = {2019},
-
     publisher= {Polity}}
 
 
 
     @book{étiquette,
-
     author = {Ventre, Daniel},
-
     title = {Cyberattaque et cyberdéfense},
-
     year = {2011},
-
     publisher= {Lavoisier}}
 
 
     @book{étiquette,
-
     author = {Ventre, Daniel},
-
     title = {Cyberguerre et guerre de l’information. Stratégie,règles et enjeux},
-
     year = {2010},
-
     publisher= {Lavoisier}}
 
 
     @book{étiquette,
-
     author = {Ventre, Daniel},
-
     title = {La guerre de l'information},
-
     year = {2007},
-
+    isbn = {978-2-7462-1883-3 }
     publisher= {Lavoisier}}
-
-
-    @book{étiquette,
-
-    author = {Ventre, Daniel},
-
-    title = {Information Warfare},
-
-    year = {2016},
-
-    publisher= {ISTE Wiley}}
 
 
     @book{volkoff2004desinformation,
-
-      title={La d{\'e}sinformation: arme de guerre},
-
-      author={Volkoff, Vladimir},
-
-      year={2004},
-
-      publisher={l'Age d'homme},
-
+    title={La d{\'e}sinformation: arme de guerre},
+    author={Volkoff, Vladimir},
+    year={2004},
+    publisher={l'Age d'homme},
     keyword = {Désinformation},
-
     note = {}
 
     }
@@ -1590,75 +1333,44 @@
     @book{étiquette,
 
     author = {Zalewski, Michal},
-
     title = {Menaces sur le réseau, Sécurité informatique : guide pratique des attaques passives et indirectes},
-
     year = {2008},
-
     publisher= {Pearson},
-
     isbn = {978-2-7440-2226-5},
-
     note = {Superbe livre pout s'initier à la sécurité informatique au niveau réseau / protocolaire. Version FR du livre publié en 2005 "Silence on the Wire"}}
 
 
     @book{étiquette,
-
     author = {Zalewski, Michal},
-
-    title = {The Tangled Web: A Guide to Securing Modern Web Applications    },
-
+    title = {The Tangled Web: A Guide to Securing Modern Web Applications},
     year = {2011},
-
     publisher = {No Starch Press},
-
     isbn = {9781593273880}}
 
 
-
-
     @book{étiquette,
-
     author = {Zegart, Amy},
-
     title = {Spies, Lies, and Algorithms: The History and Future of American Intelligence},
-
     year = {2022},
-
     publisher= {Princeton},
-
-    isbn = {9780691147130},
-
-    note = {https://press.princeton.edu/books/hardcover/9780691147130/spies-lies-and-algorithms}}
+    isbn = {9780691147130}}
 
 
     @book{étiquette,
-
     author = {Zetter, Kim},
-
     title = {Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon},
-
     year = {2014},
-
     publisher= {Crown},
-
     isbn = {077043617X},
-
     note = {The story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare}}
 
 
     @book{étiquette,
-
     author = {Zuboff, Shoshana},
-
     title = {The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power},
-
     year = {2019},
-
     publisher= {Profile Books Ltd},
-
     isbn = {1781256853},
-
     note = {The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called "surveillance capitalism," and the quest by powerful corporations to predict and control us. }}
 
 
