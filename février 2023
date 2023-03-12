@@ -41,7 +41,7 @@
 
 
     @book{étiquette,
-    author = {Adair Seven and Hale Michael and Hartsein Blake and Matthew Richard},
+    author = {Adair, Seven AND Hale, Michael AND Hartsein, Blake and Matthew, Richard},
     title = {Malware analyst's Cookbook},
     year = {2011},
     publisher= {Wiley},
