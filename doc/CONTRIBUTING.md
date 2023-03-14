@@ -11,7 +11,7 @@ Le seul pré requis est d’avoir un compte github.
 
 ## Procédure de participation
 
-Pour participer à la bibliographie:
+Pour participer à la bibliographie :
 
 1. Aller sur le lien de la bibliographie.
 2. Si vous n’avez jamais participé, cliquer sur *fork*.
@@ -27,7 +27,7 @@ Pour participer à la bibliographie:
 
 Vous pouvez ajouter, modifier, ou supprimer des fichiers.
 
-Pour modifier du contenu:
+Pour modifier du contenu :
 
 1. Cliquer sur un fichier (ici mars 2023).
 2. Cliquer sur *edit file*.
@@ -67,6 +67,6 @@ Et cliquer sur *Create Pull Request*.
 
 Comme une revue doit être effectuée, il faut attendre qu’un relecteur approuve les modifications.
 
-Une fois approuvé, vous recevez un message et le statut change:
+Une fois approuvé, vous recevez un message et le statut change :
 
 ![7a2c2a7dcb99d7ab6df15e1f7658e346.png](./_resources/7a2c2a7dcb99d7ab6df15e1f7658e346.png)
