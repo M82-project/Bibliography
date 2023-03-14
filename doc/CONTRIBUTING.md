@@ -13,8 +13,8 @@ Le seul pré requis est d'avoir un compte github.
 
 Pour participer à la bibliographie:
 
-1. Aller sur le lien de la bibliographie
-2. Si vous n'avez jamais participer, cliquer sur *fork*
+1. Aller sur le lien de la bibliographie.
+2. Si vous n'avez jamais participer, cliquer sur *fork*.
 
 ![79b1a3f736153dd07b851f06cd57d0f9.png](./_resources/79b1a3f736153dd07b851f06cd57d0f9.png)
 
@@ -42,7 +42,7 @@ Vous devez cliquer sur *Commit changes*. Vous pouvez ajouter un commentaire.
 
 ![16c3bb2db7bac3ff2c89cf506a5f6c40.png](./_resources/16c3bb2db7bac3ff2c89cf506a5f6c40.png)
 
-Une fois les modifications faites
+Une fois les modifications faites,
 
 ![b20829f4c4d24306104d42fc31927e35.png](./_resources/b20829f4c4d24306104d42fc31927e35.png)
 
@@ -52,9 +52,11 @@ Vous pouvez maintenant demander l'application de vos modifications en cliquant s
 
 ![75bc414cc067f66a7b81abb1868cb30c.png](./_resources/75bc414cc067f66a7b81abb1868cb30c.png)
 
-Cliquer sur *Open pull request*
+Cliquer sur *Open pull request*.
 
-S'il n 'y a pas de conflits, le message en vert *able to merge est présent* ![c46228eb3b6fc2fd47dea95053785468.png](./_resources/c46228eb3b6fc2fd47dea95053785468.png)
+S'il n 'y a pas de conflits, le message en vert *able to merge est présent*.
+
+![c46228eb3b6fc2fd47dea95053785468.png](./_resources/c46228eb3b6fc2fd47dea95053785468.png)
 
 * Ajouter un titre
 * vous pouvez ajouter des commentaires pour préciser l'ensemble de vos modifcations
