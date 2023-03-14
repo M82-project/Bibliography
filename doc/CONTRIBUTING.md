@@ -67,6 +67,6 @@ Et cliquer sur *Create Pull Request*.
 
 Comme une revue doit être effectuée, il faut attendre qu’un relecteur approuve les modifications.
 
-Une fois approuvé, vous recevez un message et le statut change :
+Une fois approuvée, vous recevez un message et le statut change :
 
 ![7a2c2a7dcb99d7ab6df15e1f7658e346.png](./_resources/7a2c2a7dcb99d7ab6df15e1f7658e346.png)
