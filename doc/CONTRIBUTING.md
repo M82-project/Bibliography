@@ -46,7 +46,7 @@ Une fois les modifications faites,
 
 ![b20829f4c4d24306104d42fc31927e35.png](./_resources/b20829f4c4d24306104d42fc31927e35.png)
 
-Vous pouvez maintenant demander l’application de vos modifications en cliquant sur *Contribute*.
+vous pouvez maintenant demander l’application de vos modifications en cliquant sur *Contribute*.
 
 ![fec302159359c358ff9d40ce10578dcd.png](./_resources/fec302159359c358ff9d40ce10578dcd.png)
 
