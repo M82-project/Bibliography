@@ -1,25 +1,25 @@
 
-# Contribuer à la bibliographie M82
+# Contribuer à la bibliographie M82
 
-## A propos
+## À propos
 
-Ce tutoriel détaille comment participer à la bibliographie M82.
+Ce tutoriel détaille comment participer à la bibliographie M82.
 
 <https://github.com/BartM82/Bibliography>
 
-Le seul pré requis est d'avoir un compte github.
+Le seul pré requis est d’avoir un compte github.
 
 ## Procédure de participation
 
 Pour participer à la bibliographie:
 
 1. Aller sur le lien de la bibliographie.
-2. Si vous n'avez jamais participer, cliquer sur *fork*.
+2. Si vous n’avez jamais participé, cliquer sur *fork*.
 
 ![79b1a3f736153dd07b851f06cd57d0f9.png](./_resources/79b1a3f736153dd07b851f06cd57d0f9.png)
 
 ![9d091cec81a6711d5e075795b5db6750.png](./_resources/9d091cec81a6711d5e075795b5db6750.png)
-4. Si vous avez déjà participer, cliquer sur *Sync Fork* dans votre répertoire à vous.
+4. Si vous avez déjà participé, cliquer sur *Sync Fork* dans votre répertoire à vous.
 
 ![3f99e75b94d11af39f56af8a82caecd5.png](./_resources/3f99e75b94d11af39f56af8a82caecd5.png)
 5. Cliquer sur *Create for*
@@ -46,7 +46,7 @@ Une fois les modifications faites,
 
 ![b20829f4c4d24306104d42fc31927e35.png](./_resources/b20829f4c4d24306104d42fc31927e35.png)
 
-Vous pouvez maintenant demander l'application de vos modifications en cliquant sur *Contribute*.
+Vous pouvez maintenant demander l’application de vos modifications en cliquant sur *Contribute*.
 
 ![fec302159359c358ff9d40ce10578dcd.png](./_resources/fec302159359c358ff9d40ce10578dcd.png)
 
@@ -54,18 +54,18 @@ Vous pouvez maintenant demander l'application de vos modifications en cliquant s
 
 Cliquer sur *Open pull request*.
 
-S'il n 'y a pas de conflits, le message en vert *able to merge est présent*.
+S’il n’y a pas de conflits, le message en vert *able to merge est présent*.
 
 ![c46228eb3b6fc2fd47dea95053785468.png](./_resources/c46228eb3b6fc2fd47dea95053785468.png)
 
 * Ajouter un titre.
-* Vous pouvez ajouter des commentaires pour préciser l'ensemble de vos modifcations.
+* Vous pouvez ajouter des commentaires pour préciser l’ensemble de vos modifications.
 
-et cliquer sur *Create Pull Request*.
+Et cliquer sur *Create Pull Request*.
 
 ![37b903a64d60f502a38fb2b0295b7d25.png](./_resources/37b903a64d60f502a38fb2b0295b7d25.png)
 
-Comme une revue doit être éffectutée, il faut attendre qu'un relecteur approuve les modifications.
+Comme une revue doit être effectuée, il faut attendre qu’un relecteur approuve les modifications.
 
 Une fois approuvé, vous recevez un message et le statut change:
 
