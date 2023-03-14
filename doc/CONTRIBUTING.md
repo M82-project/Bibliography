@@ -7,7 +7,7 @@ Ce tutoriel détaille comment participer à la bibliographie M82.
 
 <https://github.com/BartM82/Bibliography>
 
-Le seul pré requis est d’avoir un compte github.
+Le seul pré requis est d’avoir un compte Github.
 
 ## Procédure de participation
 
