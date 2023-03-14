@@ -31,3 +31,7 @@ Want to know more about BibTeX ? => <https://www.bibtex.com/g/bibtex-format/>
 ## How to contribute
 
 If you want to contribute to this bibliography, you can follow this [tutorial](./doc/CONTRIBUTING.md).
+
+## Comment participer
+
+Si vous souhaitez participer à cette bibliographie, vous pouvez suivre ce [tutoriel](./doc/CONTRIBUER.md).
