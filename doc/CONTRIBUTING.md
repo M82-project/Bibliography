@@ -19,7 +19,7 @@ Pour participer à la bibliographie:
 ![79b1a3f736153dd07b851f06cd57d0f9.png](./_resources/79b1a3f736153dd07b851f06cd57d0f9.png)
 
 ![9d091cec81a6711d5e075795b5db6750.png](./_resources/9d091cec81a6711d5e075795b5db6750.png)
-4. Si vous avez déjà participer, cliquer sur *Sync Fork* dans votre repertoire à vous.
+4. Si vous avez déjà participer, cliquer sur *Sync Fork* dans votre répertoire à vous.
 
 ![3f99e75b94d11af39f56af8a82caecd5.png](./_resources/3f99e75b94d11af39f56af8a82caecd5.png)
 5. Cliquer sur *Create for*
@@ -29,16 +29,16 @@ Vous pouvez ajouter, modifier, ou supprimer des fichiers.
 
 Pour modifier du contenu:
 
-1. Cliquer sur un fichier (ici mars 2023)
-2. Cliquer sur *edit file*
+1. Cliquer sur un fichier (ici mars 2023).
+2. Cliquer sur *edit file*.
 
 ![184328df1eb3966c63ceaba2bdf04c8e.png](./_resources/184328df1eb3966c63ceaba2bdf04c8e.png)
 
-ici on modifie le nom du fichier pour normaliser
+Ici, on modifie le nom du fichier pour normaliser.
 ![4099833a1f8c3dbb2bec64113935c469.png](./_resources/4099833a1f8c3dbb2bec64113935c469.png)
 
 Une fois la modification faite, en bas de la page,
-Vous devez cliquer sur *Commit changes*. Vous pouvez ajouter un commentaire.
+vous devez cliquer sur *Commit changes*. Vous pouvez ajouter un commentaire.
 
 ![16c3bb2db7bac3ff2c89cf506a5f6c40.png](./_resources/16c3bb2db7bac3ff2c89cf506a5f6c40.png)
 
@@ -58,10 +58,10 @@ S'il n 'y a pas de conflits, le message en vert *able to merge est présent*.
 
 ![c46228eb3b6fc2fd47dea95053785468.png](./_resources/c46228eb3b6fc2fd47dea95053785468.png)
 
-* Ajouter un titre
-* vous pouvez ajouter des commentaires pour préciser l'ensemble de vos modifcations
+* Ajouter un titre.
+* Vous pouvez ajouter des commentaires pour préciser l'ensemble de vos modifcations.
 
-et cliquer sur *Create Pull Request*
+et cliquer sur *Create Pull Request*.
 
 ![37b903a64d60f502a38fb2b0295b7d25.png](./_resources/37b903a64d60f502a38fb2b0295b7d25.png)
 
