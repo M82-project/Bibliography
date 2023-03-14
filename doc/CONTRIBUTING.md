@@ -37,8 +37,8 @@ Pour modifier du contenu:
 ici on modifie le nom du fichier pour normaliser
 ![4099833a1f8c3dbb2bec64113935c469.png](./_resources/4099833a1f8c3dbb2bec64113935c469.png)
 
-Une fois la modification faite, en bas de la page.
-Vous devez cliquer sur Commit changes. Vous pouvez ajouter un commentaire.
+Une fois la modification faite, en bas de la page,
+Vous devez cliquer sur *Commit changes*. Vous pouvez ajouter un commentaire.
 
 ![16c3bb2db7bac3ff2c89cf506a5f6c40.png](./_resources/16c3bb2db7bac3ff2c89cf506a5f6c40.png)
 
