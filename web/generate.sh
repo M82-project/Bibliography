@@ -1,4 +1,5 @@
-docs=("Articles_essentiels" "Biblio_Nov_23" "Theses_Rapports")
+#!/bin/bash
+docs=("Juillet_2023" "Novembre_2023" "Septembre_2023")
 for doc in ${docs[@]}; do
-        pandoc -t markdown_strict --citeproc template.md -o ${doc}.md --bibliography ../${doc}.bib 
+        pandoc -t markdown_strict --citeproc /data/web/template.md -o ${doc}/${doc}.md --bibliography ${doc}/*.bib 
 done
