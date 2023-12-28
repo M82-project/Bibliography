@@ -18,6 +18,5 @@ jobs:
 
     - name: Build and Run with Docker Compose
       run: |
-        docker-compose -f docker/check/docker-compose.yml build
         docker-compose -f docker/check/docker-compose.yml up -d
 
