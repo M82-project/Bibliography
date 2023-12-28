@@ -6,5 +6,6 @@ ADD . /data
 WORKDIR /data
 
 # Définir le script d'entrypoint
+
 ENTRYPOINT ["/data/web/check.sh"]
 
