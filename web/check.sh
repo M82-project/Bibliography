@@ -14,3 +14,6 @@ find "$SEARCH_DIR" -name "*.bib" | while read -r bibfile; do
 
     echo "Traitement terminé pour: $bibfile"
 done
+
+rm -rf output_file
+
