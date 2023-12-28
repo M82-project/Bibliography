@@ -1,0 +1,114 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Racic
+    given: Zoran
+  genre: PhD thesis
+  id: Zoran
+  issued: 1996
+  publisher: Université Pierre et Marie Curie
+  title: Étude et essais du spectromètre à plasma DYMIO de la mission
+    MARS 96
+  type: thesis
+- author:
+  - family: Calvet
+    given: Joan
+  genre: PhD thesis
+  id: calvet2013analyse
+  issued: 2013
+  publisher: Université de Lorraine
+  title: Analyse dynamique de logiciels malveillants
+  type: thesis
+  url: "https://www.theses.fr/2013LORR0083"
+- author:
+  - family: Charon
+    given: Paul
+  - family: JeangVilmer
+    given: Jean-Baptiste
+  id: CharonJBJV
+  issued: 2021
+  note: Un rapport très dense et complet sur le modèle chinois de guerre
+    de l'information
+  publisher: Institut de recherche stratégique de l'/école militaire
+    IRSEM
+  title: Les opérations d'influence chinoises
+  type: book
+- author:
+  - family: Freyssinet
+    given: Éric
+  genre: PhD thesis
+  id: freyssinet2015lutte
+  issued: 2015
+  publisher: Université Pierre et Marie Curie-Paris VI
+  title: "Lutte contre les botnets: Analyse et stratégie"
+  title-short: Lutte contre les botnets
+  type: thesis
+  url: "https://theses.hal.science/tel-01274007/document"
+- author:
+  - family: Kaczmarek
+    given: Matthieu
+  genre: PhD thesis
+  id: kaczmarek2008fondements
+  issued: 2008
+  publisher: Thèse de Doctorat d'Université, Institut National
+    Polytechnique de Lorraine ...
+  title: Des fondements de la virologie informatique vers une
+    immunologie formelle
+  type: thesis
+  url: "https://www.theses.fr/2008INPL097N"
+- author:
+  - family: Center
+    given: Mandiant Intelligence
+  container-title: "URL: https://www. fireeye.
+    com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report. pdf
+    (), pág"
+  id: center76apt1
+  note: Nous avons choisi de faire figurer dans notre sélection, le
+    rapport APT 1 de 2013 car il constitue une véritable bascule dans
+    l'histoire de la CTI et de la conflictualité dans le cyberespace. En
+    effet, pour la première fois, un acteur privé expose publiquement un
+    attaquant étatique. Il s'agit de la première attribution publique
+    par un acteur privé.
+  title: APT1 exposing one of china's cyber espionage units, 2013
+  type: article-journal
+  volume: 76
+- author:
+  - family: Naik
+    given: Nitin
+  - family: Jenkins
+    given: Paul
+  - family: Grace
+    given: Paul
+  - family: Song
+    given: Jingping
+  container-title: 2022 IEEE international symposium on systems
+    engineering (ISSE)
+  id: naik2022comparing
+  issued: 2022
+  page: 1-7
+  publisher: IEEE
+  title: "Comparing attack models for it systems: Lockheed martin's
+    cyber kill chain, mitre att&ck framework and diamond model"
+  title-short: Comparing attack models for it systems
+  type: paper-conference
+  url: "https://ieeexplore.ieee.org/abstract/document/10005490"
+- author:
+  - family: JeangVilmer
+    given: Jean-Baptiste
+  - family: Alexandre
+    given: Escoria
+  - family: Marine
+    given: Guillaume
+  - family: Janaina
+    given: Herrera
+  id: JBJV
+  issued: 2018
+  publisher: Institut de recherche stratégique de l'/école militaire
+    (IRSEM); Centre d'analyse de prévision et de stratégie (CAPS)
+  title: "Les manipulations de l'information : Un défi pour nos
+    démocraties"
+  title-short: Les manipulations de l'information
+  type: book
+---
+
