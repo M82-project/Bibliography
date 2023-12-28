@@ -1,28 +1,20 @@
-name: Docker Image CI
+name: Docker Build and Run
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ main ]
 
 jobs:
-  push_to_registries:
-    name: Build Docker images
+  build-and-run:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out the repo
-        uses: actions/checkout@v4
+    - uses: actions/checkout@v2
 
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v3
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
+    - name: Build Docker image
+      run: docker build ./docker/check -t mon-image
 
-      - name: Build Docker images
-        uses: docker/build-push-action@v5
-        with:
-          context: .
-          file: ./docker/check/Dockerfile
-          platforms: linux/amd64,linux/arm64
-          push: false
+    - name: Run Docker container
+      run: docker run mon-image

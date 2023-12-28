@@ -5,15 +5,23 @@ SEARCH_DIR="."
 
 # Recherche de tous les fichiers .bib dans le répertoire et ses sous-répertoires
 # et les traiter avec Pandoc
-find "$SEARCH_DIR" -name "*.bib" | while read -r bibfile; do
+for bibfile in $(find . -name "*.bib"); do
     echo "Traitement du fichier: $bibfile"
 
-    # Exemple de commande Pandoc (à ajuster selon vos besoins)
-    # Remplacez 'output_file' et 'format' par vos valeurs souhaitées
     pandoc "$bibfile" -s -o "output_file" --to=markdown
 
-    echo "Traitement terminé pour: $bibfile"
+    # Vérifier si Pandoc a réussi
+    if [ $? -ne 0 ]; then
+        echo "Erreur lors du traitement de $bibfile"
+        error_occurred=1
+        rm output_file
+    fi
 done
 
-rm -rf output_file
-
+# Quitter avec un code d'erreur si une erreur a été rencontrée
+if [ $error_occurred -ne 0 ]; then
+    exit 1
+fi
+rm output_file
+# Si tout va bien, quitter avec un code de sortie 0
+exit 0
