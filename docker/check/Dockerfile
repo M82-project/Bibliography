@@ -5,6 +5,7 @@ ADD . /data
 
 WORKDIR /data
 
+RUN chmod +x check.sh
 # Définir le script d'entrypoint
 
 
