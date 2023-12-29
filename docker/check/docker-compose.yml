@@ -3,5 +3,5 @@ services:
   pandoc:
     build: .
     volumes:
-      - ../../:/data  
-    
+      - ../../:/data 
+    entrypoint: /data/docker/check/check.sh
