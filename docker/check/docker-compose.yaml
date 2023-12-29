@@ -1,7 +1,0 @@
-version: '3.3'
-services:
-  pandoc:
-    build: .
-    volumes:
-      - ../../:/data  
-    

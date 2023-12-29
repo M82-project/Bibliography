@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  pandoc:
+    build: .
+    volumes:
+      - ../../:/data 
+    entrypoint: /data/docker/check/check.sh
