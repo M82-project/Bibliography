@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Chemin du répertoire à partir duquel la recherche commence
 SEARCH_DIR="."
