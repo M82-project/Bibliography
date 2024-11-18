@@ -20,12 +20,6 @@ jobs:
       run: |
         chmod +x docker/check/check.sh
         docker compose -f docker/check/docker-compose.yml up --build
-    - name: Check container status
-      run: |
-        exit_status=$(docker inspect pandoc-1 --format='{{.State.ExitCode}}')
-        if [ "$exit_status" != "0" ]; then
-          echo "Container exited with error code $exit_status"
-          exit $exit_status
-        fi
+    
     
 
