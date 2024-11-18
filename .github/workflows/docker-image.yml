@@ -19,7 +19,7 @@ jobs:
     - name: Build and Run with Docker Compose
       run: |
         chmod +x docker/check/check.sh
-        docker-compose -f docker/check/docker-compose.yml up --build
+        docker compose -f docker/check/docker-compose.yml up --build
     - name: Check container status
       run: |
         exit_status=$(docker inspect check_pandoc_1 --format='{{.State.ExitCode}}')
